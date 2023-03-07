@@ -1,4 +1,5 @@
 import './Implementing-Interfaces';
 import './Examples-Interfaces';
 import './Generics';
-import './union';
+import './Union';
+import './Intersection-Type';

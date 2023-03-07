@@ -3,4 +3,5 @@ Object.defineProperty(exports, "__esModule", { value: true });
 require("./Implementing-Interfaces");
 require("./Examples-Interfaces");
 require("./Generics");
-require("./union");
+require("./Union");
+require("./Intersection-Type");
