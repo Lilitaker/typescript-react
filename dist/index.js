@@ -5,3 +5,4 @@ require("./Examples-Interfaces");
 require("./Generics");
 require("./Union");
 require("./Intersection-Type");
+require("./Alias-type");
